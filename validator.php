@@ -11,5 +11,6 @@ namespace fav\docChecker;
 
 class validator
 {
-
+	public function inn(){
+	}
 }
