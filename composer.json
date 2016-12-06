@@ -1,6 +1,6 @@
 {
     "name": "fedorov-aleksey/doc-cheker",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "description": "",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4" : {
-            "fav\\doc-checker\\" : ""
+            "fav\\doc\\" : ""
         }
     }
 }
