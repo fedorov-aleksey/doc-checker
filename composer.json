@@ -1,0 +1,16 @@
+{
+    "name": "fedorov-aleksey/doc-cheker",
+    "version": "v1.0.0",
+    "description": "",
+    "authors": [
+        {
+            "name": "Fedorov Aleksey",
+            "email": "fav@equifax.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "fav\\doc-checker\\" : ""
+        }
+    }
+}
