@@ -55,7 +55,7 @@ class validator
         return true;
     }
 
-    public static function orgn($okpo)
+    public static function okpo($okpo)
     {
         $okpo_length = strlen($okpo);
         $control = substr($okpo, -1);
